@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+LinkMenu{
+  position: absolute;
+width: 1426px;
+height: 49px;
+left: 20px;
+top: 198px;
+color: #807675;
+}
